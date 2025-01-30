@@ -3,7 +3,7 @@ name: deploy on push
 on:
   push:
     branches:
-        -main
+        - main
 
 jobs:
   deploy-app:
